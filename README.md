@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @dceleste35 (aka Dan)
-- 👀 I’m interested in web development, AI integration, cloud architectures (AWS, Azure), and building scalable SaaS apps.
-- 🌱 I’m currently learning advanced Laravel features, NativePHP, multitenancy, and mastering DevOps tools like Terraform, Jenkins, and GitHub Actions.
-- 💞️ I’m looking to collaborate on Laravel/Livewire/TALL stack projects, AI-driven platforms, and cloud-native applications.
-- 📫 How to reach me: Feel free to connect via GitHub
-- 😄 Pronouns: he/him
+
